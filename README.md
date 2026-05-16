@@ -3,6 +3,6 @@
 # Tiny Tapeout Wokwi Project Template Example wokwi
 
 - The Wokwi Template was copied for demo purposes
-- 
+  
 
 
